@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Nike Air Max",
+    "price": 120,
+    "category": "bestseller",
+    "discount": 0,
+    "img": "/images/1.jpeg",
+    "description": "Havodorlik va qulaylikni ta’minlaydigan zamonaviy sport oyoq kiyimi.",
+    "fullDescription": "Nike Air Max – bu nafaqat chiroyli dizayn, balki eng yangi texnologiyalar bilan jihozlangan sport poyabzalidir. Uning maxsus havo yostig‘i oyoqqa maksimal qulaylikni ta’minlaydi. Yugurish va kundalik kiyish uchun juda mos."
+  },
+  {
+    "id": 2,
+    "name": "Adidas Ultra Boost",
+    "price": 130,
+    "category": "bestseller",
+    "discount": 10,
+    "img": "/images/3.jpg",
+    "description": "Ultra yengil va qulay Adidas sport poyabzali.",
+    "fullDescription": "Adidas Ultra Boost oyoq kiyimlari yuqori texnologiyali Boost tagligi bilan ta’minlangan bo‘lib, bu yugurish vaqtida maksimal energiya qaytaradi. O‘zining yengilligiga qaramay, u mustahkam va uzoq muddatli foydalanish uchun mo‘ljallangan."
+  },
+  {
+    "id": 3,
+    "name": "Puma Running Shoes",
+    "price": 100,
+    "category": "new",
+    "discount": 5,
+    "img": "/images/4.jpg",
+    "description": "Yugurish va sport mashg‘ulotlari uchun ideal Puma poyabzali.",
+    "fullDescription": "Puma Running Shoes oyoq kiyimlari yugurish ixlosmandlari uchun maxsus ishlab chiqilgan. U maxsus yengil materiallardan tayyorlangan bo‘lib, oyoqqa mos tushadi va sport paytida qulaylik yaratadi. Oyoq kiyimining zamonaviy dizayni esa uni kundalik kiyish uchun ham ideal qiladi."
+  },
+  {
+    "id": 4,
+    "name": "Reebok Classic",
+    "price": 110,
+    "category": "discount",
+    "discount": 20,
+    "img": "/images/5.jpg",
+    "description": "Klassik va qulay Reebok sport oyoq kiyimi.",
+    "fullDescription": "Reebok Classic – bu vaqt sinovidan o‘tgan dizayn va qulaylikning mukammal uyg‘unligi. Uning yumshoq ichki qismi oyoqlarni charchashdan himoya qiladi, mustahkam tagligi esa uzoq muddatli foydalanishni kafolatlaydi. Kundalik kiyim uchun ajoyib tanlov!"
+  }
+]
